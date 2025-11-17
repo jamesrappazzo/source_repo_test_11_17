@@ -15,7 +15,7 @@ concurrency:
 env:
   STAINLESS_ORG: james-test-org
   STAINLESS_PROJECT: james_test_project_11_17
-  OAS_PATH: ./spec.yml
+  OAS_PATH: spec.yml
 
 jobs:
   preview:
